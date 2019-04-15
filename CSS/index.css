@@ -102,7 +102,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #931d25;
+  background-color: black;
 }
 .header-container .header {
   height: 50px;
@@ -120,7 +120,8 @@ body {
   padding: 40px;
 }
 .section .box .box-title {
-  font-size: 24px;
+  font-size: 2.4rem;
+  font-family: 'East Sea Dokdo', cursive;
   padding-bottom: 10px;
   font-weight: bold;
 }
